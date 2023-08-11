@@ -1,0 +1,38 @@
+Objetivo 
+- Apresentação do paradigma
+- Conceitos Fundamentais
+- Javascript
+
+Programação Funcional é um paradigma, como Orientação a Objetos (é uma maneira de resolver problemas)
+
+De maneira grosseira pode dizer que é baseada em funções
+Funções
+ - Pequenas tarefas dentro de uma função
+ - Abstrair um problema e isolar ele dentro de uma função
+ - Não modificar dados fora das funções
+ - Pequenas e bem especificas no que fazem.
+
+ Características principais da função
+ - Um dado (ou mais) entra em uma função e um novo dado sai dessa função
+ - Não altera dados
+ - Não guarda estado stateless
+
+ Pontos positivos
+ - Facil manutencao
+ - Facil uso de teste
+ - Codigos mais confiaveis
+
+ Princípios 
+    #Paradigmas
+        *programacao imperativa
+        *programacao declarativa
+    #Dados
+        *imutabilidade
+        *stateless
+
+    #Funções
+        *Independentes
+        *Puras
+        *Higher-order
+        *First-class
+        *Composição
