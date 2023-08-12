@@ -1,0 +1,2 @@
+- Podem estar em qualquer lugar, inclusive, como parametro de outras funções 
+- a função poderá ser entedida como uma variavel

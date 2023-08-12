@@ -1,0 +1,12 @@
+Programação Imperativa:
+O código é pensado e gerado em sequencia
+o código é pensado como um passo a passo, como uma receita de bolo
+uma coisa depende da outra
+o estado de um dado é alterado constatemente causando mutações nas variáveis
+orientação a objetos é um tipo de paradigma imperativo
+
+Programação declarativa: 
+O codigo é geraDO para fazer algo, nao importa como
+o que fazer e nao como fazer
+Não ha necessidade de um passo a passo no codigo
+Programação funcional é um tipo de paradigma declarativo

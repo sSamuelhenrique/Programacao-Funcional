@@ -1,0 +1,7 @@
+Funções Puras
+- Não deverá depender de nenhum dado externo a nao ser o que foi passado como argumento
+- Não deverá sofrerer nenhuma interferencia do mundo externo a ela
+- se o argumento é o mesmo, o retorno nao poderá ser diferente quando a função for chamada novamente
+- Não terá nenhum efeito colateral no seu código    
+    * Não irá modificar nenhum dado
+    * NãO irá guardar nenhum estado

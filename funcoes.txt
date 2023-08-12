@@ -1,0 +1,7 @@
+Características das funções na programação funcional
+
+- Funções independentes
+- Funções Puras
+- First-class Functions (funcoes de primeira class)
+- Higher-order Functions (funcoes de alta ordem)
+- Composição de Funções

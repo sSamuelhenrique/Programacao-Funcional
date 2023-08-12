@@ -1,0 +1,2 @@
+Uma variável nao vai variar
+Se voce precisa mudar uma variavel, voce nao muda, voce cria outra nova

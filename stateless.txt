@@ -1,0 +1,3 @@
+Algo que nao guarda estadoz
+Função  so conhece os dados entregues a ela
+A resposta nao poderá variar
